@@ -12,6 +12,8 @@ Finally, we build a relatively small (~544 images) but diverse dataset that best
 
 ![image](https://user-images.githubusercontent.com/82882383/208422024-6d0c3b7d-45ca-4957-8402-9d51efce4a3e.png)
 
+## You can find the broken glass insulator dataset in the release part. 
+
 Reference
 
 [1] hieulc@cpc.vn, “Su110kV_Broken Dataset,” https://universe.roboflow.com/hieulc-cpc-vn/su110kv_broken, Mar. 2022.
