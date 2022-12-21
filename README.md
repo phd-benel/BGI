@@ -13,7 +13,7 @@ Finally, we build a relatively small (~544 images) but diverse dataset that best
 ![image](https://user-images.githubusercontent.com/82882383/208422024-6d0c3b7d-45ca-4957-8402-9d51efce4a3e.png)
 
 You can find the broken glass insulator dataset in the release part. https://github.com/phd-benel/BGI/releases/tag/dataset
-All the images are under the CC by 4.0 license.
+All the images are under the CC by 4.0 license.  Please feel free to contact me if you need any further information.
 
 
 Reference
