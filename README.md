@@ -1,5 +1,7 @@
 # BGI : Broken Glass Insulator Dataset for UAV inspection of power lines
 
+NEW VERSION CAN BE FOUND HERE : https://github.com/phd-benel/VPMBGI -> 1010 labeled images of broken glass insulator .
+
 Hy, Peace be upon you,
 
 You will find in this repo a dataset [ images + annotations (Yolov7 format)] which I hope will be useful for your work (view samples from the dataset on figure 1). Especially, if you are interested in detecting anomalies (here broken glass insulators) present on electrical towers by computer vision methods.
